@@ -1,5 +1,5 @@
 # esmre for python 3.x
-
+牛人项目，阅读INSTALL进行安装。
 This is a python 3.x compatible version of esmre python module. 
 Original code is hosted on Google Code Archive: [https://code.google.com/archive/p/esmre](https://code.google.com/archive/p/esmre). 
 
